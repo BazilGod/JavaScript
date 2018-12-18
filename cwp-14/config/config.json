@@ -1,0 +1,23 @@
+{
+  "development": {
+    "database": "features",
+    "username": "root",
+    "password": "vfr293176102cbv",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "database": "features",
+    "username": "root",
+    "password": "vfr293176102cbv",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "database": "features",
+    "username": "root",
+    "password": "vfr293176102cbv",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
